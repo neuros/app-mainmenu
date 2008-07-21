@@ -1,0 +1,2 @@
+Menu|Title=Main Menu
+Name=Show SD Photos|Icon=:/main/folder.png|Type=System|Command=/usr/bin/photoalbum /media/mmcsd

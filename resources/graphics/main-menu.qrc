@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/main" >
+        <file>folder.png</file>
+        <file>help.png</file>
+        <file>navright.png</file>
+        <file>neurososd.png</file>
+        <file>setting.png</file>
+        <file>thrapp.png</file>
+        <file>xim.png</file>
+    </qresource>
+    <qresource prefix="/archive" >
+        <file>video_DD.png</file>
+    </qresource>
+    <qresource prefix="/applications" >
+        <file>audio.png</file>
+        <file>comesoon.png</file>
+        <file>folder.png</file>
+        <file>photo.png</file>
+        <file>thrapp.png</file>
+        <file>thrappa.png</file>
+        <file>youtube_ll.png</file>
+    </qresource>
+    <qresource prefix="/tools" >
+        <file>setting.png</file>
+    </qresource>
+</RCC>
