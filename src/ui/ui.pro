@@ -8,7 +8,7 @@ RESOURCES += ../../resources/graphics/main-menu.qrc
 menu.path = $$(INSTALL_MOD_PATH)/etc
 menu.files = ../../resources/menu
 
-target.path = $$(INSTALL_MOD_PATH)/usr/bin
+target.path = $$(INSTALL_MOD_PATH)/usr/local/bin
 
 INSTALLS += target menu
 
